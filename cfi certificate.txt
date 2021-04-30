@@ -1,1 +1,3 @@
 https://courses.corporatefinanceinstitute.com/courses/introduction-to-business-intelligence
+
+https://github.com/Created-Coder/Web-Scraping-Projects/blob/main/EurAsia/EurAsia.ipynb
