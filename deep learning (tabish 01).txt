@@ -1,0 +1,16 @@
+layer:
+	The core building block of neural networks is the layer, a data-processing module that you can think of as a filter for data.
+pixles value is 0 to 256
+0 is for black
+256 is white
+we are using ANN & we are using dense layer
+Activation function :
+	converts linearity in non linearity 
+type of activation function
+relu	symoid	softmax	softplus	selu	elu etc
+
+input nodes value are called x and eadges btw input and hidden layer is called w then we sum wx and on output we add bias 
+sum(wx)+bias(b)
+
+using to hidden layer: 
+you have use bigger to smaller funnel layer to filter you data 
